@@ -4,7 +4,7 @@ This repository provides professionals in the Swiss health insurance sector with
 
 **Explore the Repository:**
 
-## 1. [Prompt Compendium: Swiss Health Insurance](google.com)
+## 1. Prompt Compendium: Swiss Health Insurance
 
 **Objective:** Access a curated collection of ready-to-use Gemini prompts designed specifically for competitive analysis within the Swiss health insurance market.
 
